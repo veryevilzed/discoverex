@@ -1,0 +1,7 @@
+%{"emysql": {:git, "git://github.com/Eonblast/Emysql.git", "c7e2103f8b737667f0128802e8de2f0d5ed2fa5c", []},
+  "exsoutx": {:git, "git://github.com/skazi/exsouth.git", "82ade644c08f4c5d7f68b10617efedf48822f086", []},
+  "hexagon": {:git, "git://github.com/veryevilzed/hex.git", "d1afa9c9f37f85d32e6d2d8bf327fc8a15a12f42", []},
+  "quickrand": {:hex, :quickrand, "1.4.0-rc.4"},
+  "sqlex": {:git, "git://github.com/skazi/sqlex.git", "9334a9205b5372464dd71dec5d5e176e669d65bc", []},
+  "underscorex": {:git, "git://github.com/veryevilzed/underscorex.git", "ee24843b0015356115d6d5622fac07cdffe882b0", []},
+  "uuid": {:git, "git://github.com/okeuday/uuid.git", "d3bdf5e4ad8ad2f25d61458f0ebad0103e181779", []}}
