@@ -26,6 +26,10 @@ defmodule Discoverex.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    []
+    [
+      {:exsoutx, github: "skazi/exsouth"},
+      {:sqlex, github: "skazi/sqlex", override: true},
+      {:underscorex, github: "veryevilzed/underscorex", override: true},
+    ]
   end
 end
